@@ -1,5 +1,5 @@
 
-public class App {
+public class Atividade_1 {
     public static void main (String [] args ) throws Exception {
         double [ ] array = { 32, 10, 50, 2, 20, 15, 12, 28, 15, 45};
         double arrayy [] = { 9,8,7,6,5,4,3,2,1,0};
